@@ -1,0 +1,11 @@
+#info-estudiantes h3
+{
+	color:orange;
+	font-size: 2em;
+}
+
+#info-estudiantes ul li
+{
+	color:blue;
+	font-size: 1.5em;
+}

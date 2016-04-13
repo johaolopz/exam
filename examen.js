@@ -75,7 +75,7 @@ while (true)
 			}
 		if (nombres[encontrado] == "johao")
 			{
-							listHTML = '<ul><li>' + joha.nombre + '<br>'+johao.genero+ '<br>'+johao.edad+ '<br>'+johao.notas+ '<br>'+johao.ciudad+ '<br>'+'</li></ul>';
+							listHTML = '<ul><li>' + johao.nombre + '<br>'+johao.genero+ '<br>'+johao.edad+ '<br>'+johao.notas+ '<br>'+johao.ciudad+ '<br>'+'</li></ul>';
 				var infoDiv = document.getElementById("info-estudiantes"); 
 				infoDiv.innerHTML=listHTML;
 		}
