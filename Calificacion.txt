@@ -1,0 +1,16 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 5 Puntos. Uso arreglo de Objetos estudiante. Lista y Sale. La presentacion pudo mejorar xq la lista se agreaga a listas anteriores. Se borra el encabezado al mostrar la info del estudiante, pero no penalizare eso.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. No tiene errores en la consola pero no valido el ingreso de nombres con mayusculas y minusculas.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Punto. Si uso bien las funciones pero no cumple con DRY, tiene mucho codigo repetido, porque no uso una funcion para imprimir los elementos de la lista.
+Comentarios (1 Punto): 0 Puntos. No tiene Comentarios.
+Subio bien a github (1 Punto bonus): 0.5 Puntos. Subio mal el Index.
+Total: 7.5 - 2 (por subir mal el index) = 5.5 
+
+Comentarios Profesor
+Me gusta que su solucion es diferente a la de los demas, sin embargo no es la mas optima.
+Hacer un arreglo solo de nombres equivale a tener un indice, pero es mas dificil de mantener.
+En general la solucion esta bien en la parte del codigo, pero subieron mal a git, no validaron y no pusieron comentarios.
+Cosas faciles que no toman ni 5 minutos pudo haber aumentado la calidad de su codigo significativamente y su nota de igual manera.
+Baje 2 puntos xq les permiti reenviar.
+
+https://github.com/johaolopz/exam
